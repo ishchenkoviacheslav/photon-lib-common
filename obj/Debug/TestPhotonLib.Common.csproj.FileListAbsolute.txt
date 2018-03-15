@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2017\Projects\TestPhotonLib\TestPhotonLib.Common\bin\Debug\TestPhotonLib.Common.dll
+C:\Users\user\documents\visual studio 2017\Projects\TestPhotonLib\TestPhotonLib.Common\bin\Debug\TestPhotonLib.Common.pdb
+C:\Users\user\documents\visual studio 2017\Projects\TestPhotonLib\TestPhotonLib.Common\obj\Debug\TestPhotonLib.Common.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\TestPhotonLib\TestPhotonLib.Common\obj\Debug\TestPhotonLib.Common.csproj.CoreCompileInputs.cache
+C:\Users\user\documents\visual studio 2017\Projects\TestPhotonLib\TestPhotonLib.Common\obj\Debug\TestPhotonLib.Common.dll
+C:\Users\user\documents\visual studio 2017\Projects\TestPhotonLib\TestPhotonLib.Common\obj\Debug\TestPhotonLib.Common.pdb
